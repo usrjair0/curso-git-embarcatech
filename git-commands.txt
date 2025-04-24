@@ -1,0 +1,12 @@
+git init
+git config --global user.name 'usrjair0'
+git config --global user.email 'juniorsilvasobrinho1999@gmail.com'
+git add arquivo-de-texto.txt
+git commit -m "first commit"
+git remote add origin https://github.com/usrjair0/curso-git-embarcatech.git 
+git push -u origin master
+
+
+git add git-commands.txt
+git commit -m "adicionado git-commands"
+git push 
